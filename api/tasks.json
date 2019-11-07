@@ -1,0 +1,294 @@
+{
+	"tasks": [
+		{
+			"instructions": [
+				"Your company is planning to introduce an internal magazine to keep staff informed of company developments.",
+				"You have been asked to help plan the staff magazine.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what type of information to include in the magazine",
+				"which type of staff should contribute to the magazine"
+			],
+			"tags": [
+				"publication", "marketing", "internal", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company is planning to introduce an internal magazine to keep staff informed of company developments.",
+				"You have been asked to help plan the staff magazine.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what type of information to include in the magazine",
+				"which type of staff should contribute to the magazine",
+				"how often the magazine should be published"
+			],
+			"tags": [
+				"publication", "marketing", "internal", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has been asked to deliver a series of one-day seminars to a group of business students to help them prepare for working in a large company.",
+				"You have been asked to help with planning the seminars.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kinds of information it would be useful to know about the students",
+				"what the most useful topics would be"
+			],
+			"tags": [
+				"education", "training", "seminar", "presentation", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has been asked to deliver a series of one-day seminars to a group of business students to help them prepare for working in a large company.",
+				"You have been asked to help with planning the seminars.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kinds of information it would be useful to know about the students",
+				"what the most useful topics would be",
+				"how best to measure the success of the seminars"
+			],
+			"tags": [
+				"education", "training", "seminar", "presentation", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company is attending a trade fair in a foreign country for the first time.",
+				"You have been asked to help with preparations for the trip.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what travel and accommodation arrangements you will need to make before the trip",
+				"what kinds of of business customs in the foreign country it would be useful to know about"
+			],
+			"tags": [
+				"travel", "planning", "culture", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company is attending a trade fair in a foreign country for the first time.",
+				"You have been asked to help with preparations for the trip.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what travel and accommodation arrangements you will need to make before the trip",
+				"what kinds of of business customs in the foreign country it would be useful to know about",
+				"how to find out about these customs before the trip"
+			],
+			"tags": [
+				"travel", "planning", "culture", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company will soon have a stand at a trade fair abroad for the first time.",
+				"You have been given the job of organizing the stand.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what information and products you will need to provide on the stand",
+				"what staffing requirements the stand will have"
+			],
+			"tags": [
+				"travel", "planning", "culture", "presentation", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company will soon have a stand at a trade fair abroad for the first time.",
+				"You have been given the job of organizing the stand.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what information and products you will need to provide on the stand",
+				"what staffing requirements the stand will have",
+				"how staff should prepare to answer questions from passersby"
+			],
+			"tags": [
+				"travel", "planning", "culture", "presentation", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has decided to produce a promotional video about the company's activities.",
+				"You have been asked to make suggestions about the video.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"which aspects of the company should be shown in the film",
+				"which employees should appear in the film"
+			],
+			"tags": [
+				"media", "publication", "public relations", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has decided to produce a promotional video about the company's activities.",
+				"You have been asked to make suggestions about the video.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"which aspects of the company should be shown in the film",
+				"which employees should appear in the film",
+				"what production qualities should be prioritized"
+			],
+			"tags": [
+				"media", "publication", "public relations", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company is considering relocating to larger premises outside the city center.",
+				"You have been asked to make recommendations concerning this possibility.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what advantages there could be in relocating",
+				"what difficulties relocation might cause"
+			],
+			"tags": [
+				"logistics", "strategy", "management", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company is considering relocating to larger premises outside the city center.",
+				"You have been asked to make recommendations concerning this possibility.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what advantages there could be in relocating",
+				"what difficulties relocation might cause",
+				"how best to communicate this idea with employees at the company"
+			],
+			"tags": [
+				"logistics", "strategy", "management", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has performed very well this year, and the managers want to show their appreciation to all staff.",
+				"You have been asked to advise management on ways to reward staff.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kinds of rewards staff would most value",
+				"which kinds of rewards should be avoided"
+			],
+			"tags": [
+				"human resources", "management", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has performed very well this year, and the managers want to show their appreciation to all staff.",
+				"You have been asked to advise management on ways to reward staff.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kinds of rewards staff would most value",
+				"which kinds of rewards should be avoided",
+				"whether to give all staff the same reward"
+			],
+			"tags": [
+				"human resources", "management", "three"
+			]
+		},
+		{
+			"instructions": [
+				"As a result of expansion, your company has recently hired a lot of new people at all levels of the company.  However, the original staff do not mix well with the new staff.",
+				"You have been asked to organize some events to help improve internal communication.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kind of event to organize for managers",
+				"what kind of event to organize for office staff"
+			],
+			"tags": [
+				"human resources", "management", "two"
+			]
+		},
+		{
+			"instructions": [
+				"As a result of expansion, your company has recently hired a lot of new people at all levels of the company.  However, the original staff do not mix well with the new staff.",
+				"You have been asked to organize some events to help improve internal communication.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"what kind of event to organize for managers",
+				"what kind of event to organize for office staff",
+				"which team building activities could be included in these events"
+			],
+			"tags": [
+				"human resources", "management", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company recently received a letter from a member of the public saying that one of your foreign suppliers employs child labor.",
+				"Your company has a long relationship with the supplier, but does not approve of child labor.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"how you could investigate the accusation",
+				"what the company should do if the accusation is true"
+			],
+			"tags": [
+				"human resources", "strategy", "public relations", "ethics", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company recently received a letter from a member of the public saying that one of your foreign suppliers employs child labor.",
+				"Your company has a long relationship with the supplier, but does not approve of child labor.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"how you could investigate the accusation",
+				"what the company should do if the accusation is true",
+				"how the company could prevent this problem from happening again"
+			],
+			"tags": [
+				"human resources", "strategy", "public relations", "ethics", "three"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has decided to try out a work-from-home policy for the Sales and Customer Service teams.",
+				"You have been asked to plan the introduction of the trial which is scheduled to begin in two months.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"how to convince the teams that it is a good idea",
+				"what these teams need to know in order to prepare"
+			],
+			"tags": [
+				"human resources", "strategy", "management", "two"
+			]
+		},
+		{
+			"instructions": [
+				"Your company has decided to try out a work-from-home policy for the Sales and Customer Service teams.",
+				"You have been asked to plan the introduction of the trial which is scheduled to begin in two months.",
+				"Discuss the situation together and decide:"
+			],
+			"details": [
+				"how to convince the teams that it is a good idea",
+				"what these teams need to know in order to prepare",
+				"what problems management should anticipate"
+			],
+			"tags": [
+				"human resources", "strategy", "management", "three"
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* inspired by FHSU colors */
+:root {
+    --yellow: #FCBB04;
+    --red: #D2360A;
+    --black: #000000;
+    --dark-gray: #303030;
+    --gray: #6C6C6C;
+    --light-gray: #E5E5E5;
+    --white: #FFFFFF;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+@font-face {
+	font-family: "ArchivoNarrow";
+	src: url("./ArchivoNarrow.ttf");
+}
+
+body {
+	font-family: "ArchivoNarrow";
+	background: var(--black);
+}
+
+h1 {
+	font-size: 2em;
+	font-family: "ArchivoNarrow";
+}
+
+h2 {
+	font-size: 1.8em;
+	font-family: "ArchivoNarrow";
+}
+
+h3 {
+	font-size: 1.6em;
+	font-family: "ArchivoNarrow";
+}
+
+h4 {
+	font-size: 1.4em;
+	font-family: "ArchivoNarrow";
+}
+
+h5 {
+	font-size: 1.2em;
+	font-family: "ArchivoNarrow";
+}
+
+h6 {
+	font-size: 1.2em;
+	font-family: "ArchivoNarrow";
+}
+
+p, li, button, a {
+	font-size: 1.1em;
+	font-family: "ArchivoNarrow";
+}
+
+button {
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
+
+button:disabled {
+	opacity: .6;
+	cursor: not-allowed;
+}
