@@ -37,8 +37,8 @@ function reset() {
 .container {
 	display: grid;
 	padding: 0 20px;
-	height: 100%;
-	grid-template-rows: 20% 60% 20%;
+	min-height: 100%;
+	grid-template-rows: 20% auto 200px;
 	align-items: center;
 }
 
@@ -79,7 +79,7 @@ button {
 	padding: .4em .8em;
 	background: var(--yellow);
 	display: block;
-	margin: 0 auto;
+	margin: 40px auto;
 	animation-name: fade;
 	animation-duration: 1s;
 	animation-timing-function: ease-in-out;

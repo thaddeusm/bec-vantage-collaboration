@@ -89,6 +89,7 @@ div {
 #left {
 	grid-area: left;
 	height: 0;
+	opacity: .7;
 	background: var(--gray);
 	align-self: flex-end;
 }
@@ -96,18 +97,21 @@ div {
 #right {
 	grid-area: right;
 	height: 0;
+	opacity: .7;
 	background: var(--gray);
 }
 
 #top {
 	grid-area: top;
 	width: 0;
+	opacity: .7;
 	background: var(--gray);
 }
 
 #bottom {
 	grid-area: bottom;
 	width: 0;
+	opacity: .7;
 	background: var(--gray);
 	justify-self: right;
 }

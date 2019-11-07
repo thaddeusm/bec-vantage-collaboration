@@ -18,7 +18,7 @@ export let tags = [];
 	display: grid;
 	height: 100%;
 	grid-template-rows: 30% 70%;
-	border: 10px solid var(--gray);
+	border: 10px solid rgba(150, 150, 150, .5);
 	grid-template-areas: 
 		"header"
 		"main";
